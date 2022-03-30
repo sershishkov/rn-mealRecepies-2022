@@ -1,13 +1,4 @@
-import {
-  View,
-  Pressable,
-  Text,
-  StyleSheet,
-  Platform,
-  Image,
-  ScrollView,
-  Button,
-} from 'react-native';
+import { Pressable, StyleSheet } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 
 function IconButton({ icon, color, onPress }) {

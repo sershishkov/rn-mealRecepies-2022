@@ -1,11 +1,4 @@
-import {
-  View,
-  Pressable,
-  Text,
-  StyleSheet,
-  Platform,
-  Image,
-} from 'react-native';
+import { View, Text, StyleSheet } from 'react-native';
 
 function MealDetails({
   duration,
